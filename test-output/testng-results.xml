@@ -20,12 +20,12 @@
       <![CDATA[PASS -- User is logged out successfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-06-20T17:09:02 EDT" name="Default suite" finished-at="2021-06-20T17:09:13 EDT" duration-ms="10976">
+  <suite started-at="2021-06-20T19:37:54 EDT" name="Default suite" finished-at="2021-06-20T19:38:16 EDT" duration-ms="21788">
     <groups>
     </groups>
-    <test started-at="2021-06-20T17:09:02 EDT" name="Default test" finished-at="2021-06-20T17:09:13 EDT" duration-ms="10976">
+    <test started-at="2021-06-20T19:37:54 EDT" name="Default test" finished-at="2021-06-20T19:38:16 EDT" duration-ms="21788">
       <class name="com.rt.test.Test01">
-        <test-method signature="signinToTheApplication()[pri:0, instance:com.rt.test.Test01@2525ff7e]" started-at="2021-06-20T17:09:02 EDT" name="signinToTheApplication" finished-at="2021-06-20T17:09:13 EDT" duration-ms="10928" status="PASS">
+        <test-method signature="signinToTheApplication()[pri:0, instance:com.rt.test.Test01@2525ff7e]" started-at="2021-06-20T19:37:54 EDT" name="signinToTheApplication" finished-at="2021-06-20T19:38:16 EDT" duration-ms="21739" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[PASS -- Launched Chrome browser successfully]]>
