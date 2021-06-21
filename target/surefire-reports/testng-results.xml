@@ -20,12 +20,12 @@
       <![CDATA[PASS -- User is logged out successfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-06-20T19:47:08 EDT" name="Default suite" finished-at="2021-06-20T19:47:19 EDT" duration-ms="10948">
+  <suite started-at="2021-06-20T19:55:50 EDT" name="Suite" finished-at="2021-06-20T19:56:04 EDT" duration-ms="14180">
     <groups>
     </groups>
-    <test started-at="2021-06-20T19:47:08 EDT" name="Default test" finished-at="2021-06-20T19:47:19 EDT" duration-ms="10948">
+    <test started-at="2021-06-20T19:55:50 EDT" name="Test" finished-at="2021-06-20T19:56:04 EDT" duration-ms="14180">
       <class name="com.rt.test.Test01">
-        <test-method signature="signinToTheApplication()[pri:0, instance:com.rt.test.Test01@2525ff7e]" started-at="2021-06-20T19:47:09 EDT" name="signinToTheApplication" finished-at="2021-06-20T19:47:19 EDT" duration-ms="10897" status="PASS">
+        <test-method signature="signinToTheApplication()[pri:0, instance:com.rt.test.Test01@78691363]" started-at="2021-06-20T19:55:50 EDT" name="signinToTheApplication" finished-at="2021-06-20T19:56:04 EDT" duration-ms="14137" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[PASS -- Launched Chrome browser successfully]]>
@@ -48,6 +48,6 @@
           </reporter-output>
         </test-method> <!-- signinToTheApplication -->
       </class> <!-- com.rt.test.Test01 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
